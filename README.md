@@ -1,7 +1,7 @@
 # SATTS Irrigation - Edge Computing 🛰️🌱
 
 **Disciplina:** Edge Computing & Computer Systems  
-**Professores:** Paulo Marcotti e Lucas Demetrius  
+**Professores:** Paulo Marcotti
 **Semestre:** 1º Semestre - Global Solution  
 
 ---
@@ -56,4 +56,4 @@ Para testar e simular o funcionamento do projeto, siga as instruções abaixo:
 
 ## 🔗 Simulação (Tinkercad)
 Acesse a simulação funcional completa através do link abaixo:
-👉 **[CLIQUE AQUI PARA ACESSAR A SIMULAÇÃO NO TINKERCAD]( [COLE_O_SEU_LINK_AQUI] )**
+👉 **[CLIQUE AQUI PARA ACESSAR A SIMULAÇÃO NO TINKERCAD]( [https://www.tinkercad.com/things/08HBU9ELSlv-edge-?sharecode=PEY8Qn_taNwRmLuWQwIvnLKXAVjhoG-hqgvstXzAiEA] )**
