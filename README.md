@@ -56,4 +56,4 @@ Para testar e simular o funcionamento do projeto, siga as instruções abaixo:
 
 ## 🔗 Simulação (Tinkercad)
 Acesse a simulação funcional completa através do link abaixo:
-👉 **[CLIQUE AQUI PARA ACESSAR A SIMULAÇÃO NO TINKERCAD]( [https://www.tinkercad.com/things/08HBU9ELSlv-edge-?sharecode=PEY8Qn_taNwRmLuWQwIvnLKXAVjhoG-hqgvstXzAiEA] )**
+👉 **[CLIQUE AQUI PARA ACESSAR A SIMULAÇÃO NO TINKERCAD]( https://www.tinkercad.com/things/08HBU9ELSlv-edge-?sharecode=PEY8Qn_taNwRmLuWQwIvnLKXAVjhoG-hqgvstXzAiEA )**
